@@ -1,5 +1,9 @@
-<img align="center" width="600"  src="kuro.jpeg" alt="Kuro">
+# KURO: Cyber Threat Intelligence VM Tool
 
-<br>
+<p align="center">
+  <img width="500" height="200" src="kuro.jpeg">
+</p>
 
-# Kuro
+Kuro is an open-source Cyber Threat Intelligence VM Customization
+
+# Other
