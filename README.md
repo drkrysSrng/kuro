@@ -1,4 +1,5 @@
-<img width="300"  src="kuro.png" alt="Kuro">
+<img align="center" width="600"  src="kuro.jpeg" alt="Kuro">
 
+<br>
 
 # Kuro
